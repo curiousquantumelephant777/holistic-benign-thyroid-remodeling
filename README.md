@@ -11,7 +11,7 @@ Conventional models of thyroid autoimmunity center on antibody-mediated destruct
 
 When Treg function is impaired (e.g., reduced FoxP3 expression or diminished $IL\text{-}10$ and $TGF\text{-}\beta$), the thyroid may enter a state of subclinical remodeling. This is hypothesized to occur even while systemic thyroid hormone levels (T3/T4) and TSH remain within normal ranges.
 
-This model draws upon the findings of Li et al. (2019) [2], which identified a distinct population of thyroid-resident $T_{reg}$ cells that express and secrete Thyroglobulin (Tg). It is hypothesized that that the subject's extreme Tg elevation ($554 \text{ ng/mL}$) disrupts this paracrine regulatory loop, leading to the observed follicular remodeling and interstitial myxedema.
+This model draws upon the findings of Li et al. (2019) [[1]](#ref1), which identified a distinct population of thyroid-resident $T_{reg}$ cells that express and secrete Thyroglobulin (Tg). It is hypothesized that that the subject's extreme Tg elevation ($554 \text{ ng/mL}$) disrupts this paracrine regulatory loop, leading to the observed follicular remodeling and interstitial myxedema.
 
 ## **Key Interventions**
 
@@ -57,5 +57,5 @@ At the 14-month follow-up, the smaller, concerning nodule exhibited a structural
   
 
 ## **References**
-1. <a id="ref2"></a>Li Y, Xu L, Fu Y, et al. Expression of thyroglobulin by regulatory T cells in thyroid tissue. Journal of Molecular Endocrinology. 2019;63(3):181-191. https://doi.org/10.1530/JME-19-0110
+1. <a id="ref1"></a>Li Y, Xu L, Fu Y, et al. Expression of thyroglobulin by regulatory T cells in thyroid tissue. Journal of Molecular Endocrinology. 2019;63(3):181-191. https://doi.org/10.1530/JME-19-0110
 

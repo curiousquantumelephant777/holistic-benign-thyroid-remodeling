@@ -24,6 +24,7 @@ Thyroid nodules are present in up to 68% of the population [[1]](#ref1). Althoug
 ## **Future Directions:**
 - Investigating the biochemical and epigenetic factors behind these changes
 - Exploring the potential for GDNF stimulation in the treatment of benign asymptomatic and symptomatic thyroid nodules
+- Modeling the "wider-than-tall" shift as a homeomorphic transformation and investigating if the curvature of the follicular wall affects the diffusion rate of GDNF or other signaling molecules.
   
 
 ## **References**

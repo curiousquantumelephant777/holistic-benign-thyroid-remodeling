@@ -23,8 +23,8 @@ This model draws upon the findings of Li et al. (2019) [[1]](#ref1), which ident
 ### Lifestyle Modifications
 - Regular aerobic exercise and strength training
 - Avoiding gluten and inflammatory triggers/artificial ingredients
-### GDNF Stimulation
-- 5 months of targeted GDNF stimulation via polyphenols, exercise, and
+### GDNF Stimulation Axis
+- 5 months of targeted GDNF stimulation via polyphenols, multimodal exercise, and photobiomodulation, which is hypothesized to have catalyzed the remodeling
 
 ## **Longitudinal Data:**
 - At 14 month follow-up ultrasound, the smaller, concerning nodule downgraded in TIRADS category (TIRADS-5 to TIRADS-4),

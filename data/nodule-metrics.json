@@ -1,0 +1,34 @@
+{
+  "case_study": "n-of-1 Thyroid Remodeling",
+  "subject_metrics": {
+    "serum_thyroglobulin_ng_ml": 554,
+    "antibodies": {
+      "anti_tpo": "negative",
+      "anti_tg": "negative"
+    }
+  },
+  "nodules": [
+    {
+      "id": "Nodule A",
+      "location": "Inferior Right Lobe",
+      "time_series": [
+        {
+          "month": 0,
+          "ti_rads_level": 5,
+          "points": 7,
+          "echogenicity": "hypoechoic",
+          "shape": "taller-than-wide",
+          "status": "baseline"
+        },
+        {
+          "month": 14,
+          "ti_rads_level": 4,
+          "points": 5,
+          "echogenicity": "isoechoic",
+          "shape": "wider-than-tall",
+          "status": "follow-up"
+        }
+      ]
+    }
+  ]
+}

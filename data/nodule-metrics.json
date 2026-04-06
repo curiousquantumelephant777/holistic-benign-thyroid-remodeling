@@ -26,7 +26,8 @@
           "points": 5,
           "echogenicity": "isoechoic",
           "shape": "wider-than-tall",
-          "status": "follow-up"
+          "vascularity": "avascular",
+          "notes": "Possible mummification transition"
         }
       ]
     }

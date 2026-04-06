@@ -1,22 +1,22 @@
 # 🧩 The Tg/Treg Paradox: Elevated Thyroglobulin in the Absence of Classic Autoimmunity
-This repository documents a longitudinal 'n-of-1' case study where targeted holistic supplementation and photobiomodulation were used to treat a benign multinodular thyroid goiter, which resulted in significantly improved sonographic features. It also introduces an clinical paradox: autoimmune thyroid symptoms and profoundly high serum thyroglobulin (Tg) despite being clinically euthyroid.
+This repository documents a longitudinal 'n-of-1' case study where targeted holistic supplementation and photobiomodulation were used to manage a benign multinodular thyroid goiter, which resulted in improved sonographic topological features. The nodule demonstrated a favorable geometric shift from a Taller-than-Wide (TTW) orientation to a Wider-than-Tall (WTT) configuration, reducing its ACR TI-RADS point aggregate. It also introduces an clinical paradox: autoimmune thyroid symptoms and profoundly high serum thyroglobulin (Tg) despite being clinically euthyroid. This study challenges the hypothesis of inert nodules, suggesting that benign, clinically euthyroid nodules may nonetheless exert immunological toxcitity through localized $\{Tg}$ signaling and the subsequent disruption of the $\{Tg/Treg}$ regulatory axis.
 
 ## Project Overview
 
-This research explores an atypical thyroid profile: persistently elevated serum thyroglobulin $(Tg = 554 \text{ ng/mL})$ in an individual who remains clinically euthyroid, seronegative for TPO and Tg antibodies, and shows normal thyroid ultrasound with homogenous echotexture. Rather than dismissing this finding as incidental, the project investigates whether elevated Tg may function as an active metabolic signal capable of disrupting local immune tolerance.
+This research explores an atypical thyroid profile: profoundly elevated serum thyroglobulin $(Tg = 554 \text{ ng/mL})$ in an individual who remains clinically euthyroid, seronegative for TPO and Tg antibodies, and shows an otherwise normal thyroid ultrasound with homogenous echotexture. Rather than dismissing this finding as incidental, the project investigates whether elevated $\{Tg}$ may function as an active metabolic signal capable of disrupting local immune tolerance.
 
-## Core Hypothesis: The Tg/Treg Paradox
+## Core Hypothesis: The $\{Tg/Treg}$ Paradox
 
-Conventional models of thyroid autoimmunity center on antibody-mediated destruction. This work proposes an alternative framework: the **Tg/Treg Paradox**, in which high concentrations of thyroglobulin overwhelm or downregulate regulatory T cells ($T_{reg}$) without triggering classic autoantibody production. 
+Conventional models of thyroid autoimmunity center on antibody-mediated destruction. This work proposes an alternative framework: the **$\{Tg/Treg}$ Hypothesis**, in which high concentrations of thyroglobulin overwhelm or downregulate regulatory T cells ($T_{reg}$) without triggering classic autoantibody production. 
 
 When Treg function is impaired (e.g., reduced FoxP3 expression or diminished $IL\text{-}10$ and $TGF\text{-}\beta$), the thyroid may enter a state of subclinical remodeling. This is hypothesized to occur even while systemic thyroid hormone levels (T3/T4) and TSH remain within normal ranges.
 
-This model draws upon the findings of Li et al. (2019) [[1]](#ref1), which identified a distinct population of thyroid-resident $T_{reg}$ cells that express and secrete Thyroglobulin (Tg). It is hypothesized that that the subject's extreme Tg elevation ($554 \text{ ng/mL}$) disrupts this paracrine regulatory loop, leading to the observed autoimmune systemic symptoms and interstitial myxedema. Specifically, this project posits prolonged activation of these thyroid-resident $T_{reg}$ cells leads to long-term downregulation, which modulates the autoimmune symptoms.
+This model draws upon the findings of Li et al. (2019) [[1]](#ref1), which identified a distinct population of thyroid-resident $T_{reg}$ cells that express and secrete Thyroglobulin $\{Tg}$. It is hypothesized that the subject's extreme Tg elevation ($554 \text{ ng/mL}$) disrupts this paracrine regulatory loop, leading to the observed autoimmune systemic symptoms and mild interstitial myxedema. Specifically, this project posits prolonged activation of these thyroid-resident $T_{reg}$ cells leads to long-term downregulation, which modulates the autoimmune symptoms.
 
 ## **Key Interventions**
 
 ### Targeted biochemical supplementation:
-- Boswellia, curcumin, and spirulina
+- **Spirulina-Curcumin-Boswellia Complex:** Utilized as a synergistic anti-inflammatory and anti-proliferative stack, modeled after the Stancioiu et al. (2019) [[2]](#ref2) clinical trial which demonstrated significant reduction in benign thyroid nodule surface area (P=0.027).
 - Zinc, vitamin D
 ### Photobiomodulation
 - 2 months of red light therapy
@@ -41,8 +41,7 @@ The aggregate score determines the TI-RADS category and the subsequent recommend
 | :--- | :--- | :--- |
 | **Nodule ID** | Nodule A (Superior) | Nodule A (Superior) |
 | **TI-RADS Category** | **TR5 (Highly Suspicious)** | **TR4 (Moderately Suspicious)** |
-| **Point Aggregate** | 7+ Points | 4-6 Points |
-| **Clinical Action** | FNA Recommended | Observation/Follow-up |
+| **Point Aggregate** | 7+ Points | 5 Points |
 
 ### 🔬 Interpretation of Remodeling
 
@@ -50,6 +49,7 @@ At the 14-month follow-up, the smaller, concerning nodule exhibited a structural
 
 * **Margin Regularization:** A transition toward smoother margins as interstitial fluid dynamics and localized cytokine balance improve.
 * **Structural Stabilization:** A reduction in the "suspicious" sonographic features previously driven by localized inflammatory pressure.
+
 ## **Future Directions:**
 - Investigating the biochemical and epigenetic factors behind these changes
 - Exploring the potential for GDNF stimulation in the treatment of benign asymptomatic and symptomatic thyroid nodules
@@ -58,4 +58,4 @@ At the 14-month follow-up, the smaller, concerning nodule exhibited a structural
 
 ## **References**
 1. <a id="ref1"></a>Li Y, Xu L, Fu Y, et al. Expression of thyroglobulin by regulatory T cells in thyroid tissue. Journal of Molecular Endocrinology. 2019;63(3):181-191. https://doi.org/10.1530/JME-19-0110
-
+2. <a id="ref2"></a>2. Stancioiu et al. (2019). Treatment for benign thyroid nodules with a combination of natural extracts. *Journal of Clinical Medicine*...

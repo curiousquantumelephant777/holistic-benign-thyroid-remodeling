@@ -9,9 +9,11 @@ This research explores an atypical thyroid profile: profoundly elevated serum th
 
 Conventional models of thyroid autoimmunity center on antibody-mediated destruction. This work proposes an alternative framework: the **$\{Tg/Treg}$ Hypothesis**, in which high concentrations of thyroglobulin overwhelm or downregulate regulatory T cells ($T_{reg}$) without triggering classic autoantibody production. 
 
-When Treg function is impaired (e.g., reduced FoxP3 expression or diminished $IL\text{-}10$ and $TGF\text{-}\beta$), the thyroid may enter a state of subclinical remodeling. This is hypothesized to occur even while systemic thyroid hormone levels (T3/T4) and TSH remain within normal ranges.
+When Treg function is impaired (e.g., reduced FoxP3 expression or diminished $IL\text{-}10$ and $TGF\text{-}\beta$), autoimmune symptomology may result. This is hypothesized to occur even while systemic thyroid hormone levels (T3/T4) and TSH remain within normal ranges.
 
 This model draws upon the findings of Li et al. (2019) [[1]](#ref1), which identified a distinct population of thyroid-resident $T_{reg}$ cells that express and secrete Thyroglobulin $\{Tg}$. It is hypothesized that the subject's extreme Tg elevation ($554 \text{ ng/mL}$) disrupts this paracrine regulatory loop, leading to the observed autoimmune systemic symptoms and mild interstitial myxedema. Specifically, this project posits prolonged activation of these thyroid-resident $T_{reg}$ cells leads to long-term downregulation, which modulates the autoimmune symptoms.
+
+
 
 ## **Key Interventions**
 
@@ -28,7 +30,7 @@ This model draws upon the findings of Li et al. (2019) [[1]](#ref1), which ident
 
 ## **Longitudinal Data:**
 - At 14 month follow-up ultrasound, the smaller, concerning nodule downgraded in TIRADS category (TIRADS-5 to TIRADS-4),
-- The nodule increased in echogenicity, and shifted to a wider-than-tall shape, both indicators of a benign remodeling process. The nodule did increase slightly in volume, but remained within the margins of clinical stability. This is interpreted as a structural reorganization of the follicular space rather than pathological proliferation, given the concurrent improvement in morphological symmetry and echogenicity.
+- The nodule increased in echogenicity, and shifted to a wider-than-tall shape, both indicators of a benign remodeling process. The nodule did increase slightly in volume, but remained within the margins of clinical stability. This is interpreted as a structural reorganization of the follicular space rather than pathological proliferation, given the concurrent improvement in morphological symmetry and echogenicity. Thyroglobulin resorption involves  pinocytosis, an energy-intensive process. It is theorized that the ATP stimulation via cytochrome C upregulation during photobiomodulation helps encourage this process. This could explain the favorable shift in echogenicity and geometrical shape as the stagnant follicular cells begin to pinocytose.
 
 ### 📊 Understanding TI-RADS
 
